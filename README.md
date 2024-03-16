@@ -17,4 +17,4 @@ Predict: 单独运行predict.py
 
 """
 
-![image]()
+![image](https://github.com/timelazy/UNet-for-3D-lithography/blob/main/figure.tif)
